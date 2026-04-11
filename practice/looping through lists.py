@@ -1,8 +1,3 @@
-i=1
-while i<6:
-    print(i)
-    i=i+1
-
 # Looping through lists:
 
 # i) using for loop
@@ -51,4 +46,3 @@ arr=[1,2,3,4,5,6]
 for x in arr:
     if x%2 ==0:
         print(x)   # 2  4  6
-
