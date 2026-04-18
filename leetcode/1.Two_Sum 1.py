@@ -1,6 +1,7 @@
 #1.  TWO SUM
-# Algorithm:
 
+
+# Algorithm:
 """
 1.Take a number
 2.Find what number you need by using [target-number]
@@ -9,7 +10,6 @@
 5.else -> store it in the dictionary
 
 """
-
 def two_sum(nums,target):
     val_index ={}
     for i,v in enumerate(nums):
@@ -40,3 +40,5 @@ Example 3:
 Input: nums = [3,3], target = 6
 Output: [0,1]
 """
+
+

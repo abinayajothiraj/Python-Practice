@@ -35,9 +35,8 @@ Output: 2
 
 """
 
-# without max()
+# without using max()
 """
-
 def max_consecutive_ones(nums):
     count = 0  # current streak
     ans = 0    # max streak
@@ -50,8 +49,5 @@ def max_consecutive_ones(nums):
             ans = count
     return ans
 print(max_consecutive_ones([1,1,0,1,1,1]))
-
-
-
 
 """
