@@ -87,5 +87,5 @@ Input: x = 10
 Output: False  
 
 #### File:
-leetcode/4.Palindrome Number 9.py
+[Palindrome Number](leetcode/4.Palindrome Number 9.py)
 -
