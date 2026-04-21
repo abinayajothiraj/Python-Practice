@@ -21,6 +21,12 @@ def max_consecutive_ones(nums):
 print(max_consecutive_ones([1,1,0,1,1,1]))
 print(max_consecutive_ones([1,0,1,1,0,1]))
 
+
+
+
+
+
+
 """
 Given a binary array nums, return the maximum number of consecutive 1's in the array.
 

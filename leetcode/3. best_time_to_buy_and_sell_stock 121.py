@@ -1,7 +1,5 @@
 # BEST TIME TO BUY AND SELL STOCK:
-
 #Algorithm:
-
 """
 1.start
 2.set min_price to a very large number (infinity)
@@ -17,7 +15,6 @@
   return maxprofit
 
 """
-
 def maxProfit(prices):
     min_price = float('inf')
     max_profit = 0

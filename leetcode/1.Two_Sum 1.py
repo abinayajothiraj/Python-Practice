@@ -1,6 +1,5 @@
 #1.  TWO SUM
 
-
 # Algorithm:
 """
 1.Take a number
@@ -21,6 +20,13 @@ def two_sum(nums,target):
 print(two_sum([2,7,11,15],9))
 print(two_sum([3,2,4],6))
 print(two_sum([3,3],6))
+
+
+
+
+
+
+
 
 """
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
