@@ -80,3 +80,6 @@ def palindrome_number(x):
         right -= 1
     return True
 print(palindrome_number(121))
+
+
+#12321
