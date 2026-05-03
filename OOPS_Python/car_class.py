@@ -26,7 +26,7 @@ class Car → blueprint created
 
 car1 = Car("Audi")
     → new object created
-    → brand = "Audi"
+    → brand = "Audi
 
 car2 = Car("Toyota")
     → new object created
