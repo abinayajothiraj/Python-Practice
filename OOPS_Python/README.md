@@ -84,12 +84,3 @@ Example:
 
 ---
 
-# Key OOP Concepts
-
-## Class
-A class is a blueprint used to create objects.
-
-Example:
-```python
-class Car:
-    pass
